@@ -1,0 +1,120 @@
+/*!
+ * Web Fonts from Fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2017 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Typedepot
+ * License URL: https://www.fontspring.com/licenses/typedepot/webfont
+ *
+ *
+ */
+
+
+@font-face {
+    font-family: 'Banda_regular';
+    src: url('Banda_regular-webfont.woff2') format('woff2'),
+         url('Banda_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+.title{
+	text-align: center;
+	font-family: 'Banda_regular', 'Maven pro', sans-serif;
+  color: white;
+}
+
+h3.title{
+  font-size: 2rem;
+}
+
+p.title{
+  font-size: 75px;
+  font-style: normal;
+  padding-top: 200px;
+}
+
+
+#up-head{
+  background-image: url("bg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 1380px 1000px;
+  padding-bottom: 600px;
+  margin-top: 20px;
+}
+
+.side-container{
+  padding-left: 58px;
+  padding-right: 58px;
+  font-family: 'Maven Pro', sans-serif;
+  position: relative;
+}
+
+.side-container p{
+  font-size: 30px;
+}
+.side-container h2{
+  font-size:40px
+}
+.img{
+  display: flex;
+}
+.img p{
+  margin-right: 50px;
+}
+.img2{
+  display: flex;
+}
+
+.img2 p{
+  margin-left: 50px;
+}
+
+#down-foot{
+  background-image: url("bgBottom.png")
+}
+
+#head1{
+  color: #ff00ff;
+}
+
+#special{
+  color: #42cbf4;
+}
+
+#head2{
+  color: #f7b531;
+}
+
+#down-foot{
+  border-style: hidden;
+  background-image: url("bgBottom.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  padding-top: 200px;
+  margin-top: 20px;
+  padding-bottom: 225px;
+  font-size: 2rem;
+}
+
+h1.title{
+  color: #9b0089;
+}
