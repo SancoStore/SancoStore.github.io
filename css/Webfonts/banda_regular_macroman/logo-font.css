@@ -1,0 +1,172 @@
+/*!
+ * Web Fonts from Fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2017 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Typedepot
+ * License URL: https://www.fontspring.com/licenses/typedepot/webfont
+ *
+ *
+ */
+
+
+@font-face {
+    font-family: 'Banda_regular';
+    src: url('Banda_regular-webfont.woff2') format('woff2'),
+         url('Banda_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+div.main{
+  background-color: white;
+  background-size: 100% 100vh;
+  padding: 30px 30px 30px 30px;
+
+}
+.title{
+	text-align: center;
+	font-family: 'Banda_regular', 'Maven pro', sans-serif;
+  color: white;
+}
+
+h3.title{
+  font-size: 2rem;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p.title{
+  font-size: 75px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 150px;
+}
+
+img.title{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#up-head{
+  background-image: url("bg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+
+}
+
+.side-container{
+  margin-top: 100px;
+  padding-left: 58px;
+  padding-right: 58px;
+  font-family: 'Maven Pro', sans-serif;
+  position: relative;
+}
+
+
+.side-container p{
+  font-size: 20px;
+}
+
+.img{
+  display: flex;
+}
+
+.img img{
+  margin-left: 150px;
+  width:75%;
+  height:75%;
+}
+.img p{
+  margin-right: 200px;
+}
+
+.img h2{
+  margin-right: 250px;
+  margin-left:
+}
+.img2{
+  display: flex;
+  text-align: right;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.img2 img{
+  margin-right: 150px;
+  width: 75%;
+  height: 75%;
+}
+
+.img2 p{
+  margin-right: : 20px;
+  margin-left: 200px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.img2 h2{
+  margin-left: 250px;
+}
+
+#head1{
+  color: #ff00ff;
+  display: inline;
+}
+
+#special{
+  color: #42cbf4;
+}
+
+#head2{
+  color: #f7b531;
+}
+
+#down-foot{
+  background-image: url("bgBottom.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+  padding-top: 100px;
+  padding-bottom:100px;
+  font-size:2rem;
+  margin-top:100px;
+}
+
+.text{
+  display: block;
+  margin-top: 40px;
+  margin-left: 100px;
+}
+
+.text2{
+  display: block;
+  margin-top: 40px;
+  margin-right: 100px;
+}
+h1.title{
+  color: #9b0089;
+}
